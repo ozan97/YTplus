@@ -1,8 +1,8 @@
 https://github.com/dayanch96/YTLite/releases
 
-https://github.com/dayanch96/YTLite/releases/download/v5.2b3/com.dvntm.ytlite_5.2b3_iphoneos-arm64.deb
 
-https://www.dropbox.com/scl/fi/hdw5auti83z31zvikfada/com.google.ios.youtube_20.39.6_und3fined.ipa?rlkey=syaq7oqfbb8gbb1u2miujtnww&st=9v780ljr&dl=0
+[gDrive](https://drive.google.com/uc?export=download&id=1tcH1jluhI2kIMX9NCPrEl3O73cOUMlmA)
+[Dropbox](https://www.dropbox.com/scl/fi/hdw5auti83z31zvikfada/com.google.ios.youtube_20.39.6_und3fined.ipa?rlkey=syaq7oqfbb8gbb1u2miujtnww&st=9v780ljr&dl=0)
 
 
   <summary>How to build the YouTube Plus app</summary>
